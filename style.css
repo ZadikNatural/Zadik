@@ -1,0 +1,42 @@
+#button {
+ padding: 0;
+ }
+#button li {
+ display: inline;
+ }
+#button li a {
+ font-family: Algerian;
+ font-size: 30px;
+ text-decoration: none;
+ float: center;
+ padding: 10px;
+ color: #fff;
+ }
+
+h1 {
+  color: #F8F9F9;
+   font-style: italic;
+  font-size: 40px;
+  font-family: Algerian;
+  text-align: center;
+  }
+ 
+  
+h2 {
+  color:white;
+  font-size: 22px;
+  text-align: center;
+     }
+
+body {
+  background-color: #2E2E2E
+}
+
+img{
+display:block;
+margin:auto;
+}
+p {
+  color:white;
+  text-align: right;
+  }
